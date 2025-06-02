@@ -1,6 +1,6 @@
-<?xml version=1.0 ?>
+<?xml version="1.0" ?>
 
-<proffesional>
+<professional>
     <name>Helen Smith</name>
     <profession>Software Engineer</profession>
     <age>31</age>
@@ -19,8 +19,10 @@
         <profile id="1">
             <name>Twitter</name>
             <link>https://twitter.com</link>
+        </profile>
         <profile id="2">
             <name>Facebook</name>
             <link>https://www.facebook.com</link>
+        </profile>
     </socialProfiles>
-</proffesional>
+</professional>
