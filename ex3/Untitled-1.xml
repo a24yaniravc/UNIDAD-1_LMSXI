@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list electronic_products="catalogue">
+    <body>
+        <product id="1">
+            <name> Samsung Galaxy Book4 </name>
+            <description> A wonderful laptop </description>
+            <price> 1059.00€ </price>
+            <feature_list>
+                <feature id="1">
+                    <name> CPU: Intel® Core™ 5 </name>
+                </feature>
+                <feature id="2">
+                    <name> RAM: 16GB LPDDR4x </name>
+                </feature> 
+                <feature id="3">
+                    <name> Storage: 512 GB NVMe SSD (+Additional Slot) </name>
+                </feature>
+            </feature_list>
+        </product>
+        <product id="2">
+            <name> Xiaomi Redmi Note 13 Pro </name>
+            <description> A great phone </description>
+            <price> 528.99€ </price>
+            <feature_list>
+                <feature id="1">
+                    <name> CPU: Qualcomm Snapdragon® 7s Gen 2 </name>
+                </feature>
+                <feature id="2">
+                    <name> RAM: 12GB </name>
+                </feature> 
+                <feature id="3">
+                    <name> Storage: 512GB </name>
+                </feature> 
+            </feature_list>
+        </product>
+    </body>
+</list>

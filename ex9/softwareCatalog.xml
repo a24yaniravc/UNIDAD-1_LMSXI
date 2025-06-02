@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<catalog xmlns:os="https://www.catalog.com/operative-system" xmlns:office="https://www.catalog.com/office-aplication">
+    <os:software>
+        <os:name>Android</os:name>
+        <osversion>15.0</version>
+        <os:developers>
+            <developer id="a">Andy Rubin</developer>
+            <developer id="b">Nick Sears</developer>
+            <developer id="c">Rich Miner</developer>
+         </os:developers>
+            <url>https://es.wikipedia.org/wiki/Android</url>
+    </os:software>
+    <os:software>
+        <os:name>iOS</os:name>
+            <version>18.0</version>
+            <developer>Apple</developer>
+            <url>https://es.wikipedia.org/wiki/IOS</url>
+    </os:software>
+    <os:software>
+        <os:name>macOS</os:name>
+            <version>15 Sequoia</version>
+            <developer>Apple</developer>
+            <url>https://es.wikipedia.org/wiki/MacOS</url>
+    </os:software>
+    <office:software>    
+        <office:name>Excel</office:name>
+            <version>16.70</version>
+            <developer>Microsoft</developer>
+            <url>https://es.wikipedia.org/wiki/Microsoft_Excel</url>
+    </office:software>
+    <office:software>     
+        <office:name>Outlook</office:name>
+            <version>2409</version>
+            <developer>Microsoft</developer>
+            <url>https://support.microsoft.com/es-es/office/-qu%C3%A9-es-outlook-10f1fa35-f33a-4cb7-838c-a7f3e6228b20</url>
+    </office:software>
+    <office:software>     
+        <office:name>OneDrive</office:name>
+            <version>24.166.0818.0002</version>
+            <developer>Microsoft</developer>
+            <url>https://www.microsoft.com/es-es/microsoft-365/onedrive/online-cloud-storage</url>
+    </office:software>
+</catalog>

@@ -1,0 +1,24 @@
+{
+    "name": "Don Hall",
+    "birthdate": "1969-08-March",
+    "birthplace": "Iowa",
+    "deathdate": null,
+    "deathplace": null,
+    "movies": [
+    {
+        "name": "Big Hero 6",
+        "filming_date": 2014
+    },
+
+    {
+        "name": "Strange World",
+        "filming_date": 2022
+    },
+
+    {   
+        "name": "Winnie the Pooh",
+        "filming_date": 2011
+    }
+
+    ]
+}

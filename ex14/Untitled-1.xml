@@ -1,0 +1,12 @@
+<?xml version=1.0 ?>
+
+<programmingLanguage>
+    <name>C</name>
+    <yearOfCreation>1972</yearOfCreation>
+    <authors>
+        <author id="a">Brian Kernighan</author>
+        <author id="b">Ken Thompson</author>
+        <author id="c">Dennis Ritchie</author>
+    </authors>
+    <compiled>true</compiled>
+</programmingLanguage>

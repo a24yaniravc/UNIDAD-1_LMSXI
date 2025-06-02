@@ -1,0 +1,26 @@
+<?xml version=1.0 ?>
+
+<proffesional>
+    <name>Helen Smith</name>
+    <profession>Software Engineer</profession>
+    <age>31</age>
+    <address>
+        <city>New York</city>
+        <postalCode>64780</postalCode>
+        <country>USA</country>
+    </address>
+    <languages>
+        <language id="1"> Java </language>
+        <language id="2">Node.js</language>
+        <language id="3">JavaScript</language>
+        <language id="4">JSON</language>
+    </languages>
+    <socialProfiles>
+        <profile id="1">
+            <web>Twitter</web>
+            <link>https://twitter.com</link>
+        <profile id="2">
+            <web>Facebook</web>
+            <link>https://www.facebook.com</link>
+    </socialProfiles>
+</proffesional>
